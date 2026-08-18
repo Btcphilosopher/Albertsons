@@ -1,0 +1,6 @@
+{
+  "name": "Albertsons",
+  "description": "Albertsons supermarket super-app with grocery shopping, for U® deals, DriveUp & Go™, FreshPass®, in-store mode, recipes, pharmacy, fuel & AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
